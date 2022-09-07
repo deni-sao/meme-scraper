@@ -1,0 +1,9 @@
+{
+  "name": "meme-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/deni-sao/meme-scraper",
+  "author": "Denisa-Nicole Oprean <denisaoprean@yahoo.com>",
+  "license": "MIT"
+}
